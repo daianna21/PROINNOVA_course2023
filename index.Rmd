@@ -1,0 +1,10 @@
+---
+title: "RNA-seq analysis using real biological data"
+author: "Daianna Gonzalez Padilla"
+date: "2023-10-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
